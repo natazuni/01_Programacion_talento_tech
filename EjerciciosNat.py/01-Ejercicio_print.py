@@ -3,3 +3,4 @@
 #print(500+55)
 print("\nlinea 1\nlinea 2\nlinea 3")
 print("\tA\tB\tC\n\tD\tE\tF\n\tG\tH\tI")
+

@@ -10,3 +10,4 @@ print(nombre_completo)
 
 curso = "python"
 print("estas tomando un curso de:" + curso)
+
